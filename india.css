@@ -1,0 +1,17 @@
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.row.flex {
+    display: inline-flex;
+    width: 100%;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid-item{
+   margin-top: 10px 
+}
